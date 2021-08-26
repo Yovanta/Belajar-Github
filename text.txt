@@ -1,0 +1,2 @@
+Hello World
+ini adalah teks
